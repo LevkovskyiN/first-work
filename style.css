@@ -1,0 +1,49 @@
+body {
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header {
+    color: rgb(255, 255, 255);
+    background-color: rgb(110, 1, 1);
+    text-align: center;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.image {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.text {
+    text-align: left;
+    width: 100%;
+    max-width: 700px;
+    margin:0 auto ;
+}
+
+.cars-list {
+    padding: 0;
+    text-align: center;
+}
+
+.car-item {
+    border: 5px dashed #000000;
+    display: inline-block;
+}
+
+.footer {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 0 auto;
+}
